@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.cash-button {
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #382f5a;
+  color: white;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}

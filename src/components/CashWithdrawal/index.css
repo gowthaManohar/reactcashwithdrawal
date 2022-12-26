@@ -1,0 +1,70 @@
+.bg-container {
+  height: 100vh;
+  background-color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: blue;
+  padding: 30px;
+  border-radius: 20px;
+  width: 600px;
+}
+.headsymbol {
+  background-color: #c7d2fe;
+  border-radius: 100px;
+  font-size: 20px;
+  color: black;
+  padding: 15px;
+  width: 80px;
+  height: 80px;
+  padding-top: 24px;
+  text-align: center;
+}
+
+.symbol-container {
+  display: flex;
+  flex-direction: row;
+}
+.symbol-description {
+  font-size: 20px;
+  color: #c7d2fe;
+  margin-left: 10px;
+}
+.cash-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.cash-description {
+  font-size: 20px;
+  color: #585076;
+  font-weight: bold;
+}
+.cash {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.rupees {
+  font-size: 20px;
+  color: #585076;
+}
+.cash-head {
+  font-size: 30px;
+  color: #ffffff;
+}
+.withdraw-desc {
+  font-size: 20px;
+  color: #585076;
+  font-weight: bold;
+}
+
+.cashbuttons-container {
+  flex-wrap: wrap;
+  list-style-type: none;
+  display: flex;
+}
